@@ -1,16 +1,15 @@
-## Hi there 👋
+```yaml
+user-data:
+  └─ Justus Jäger
+  └─ Computer Science Engineer | Developer
+  └─ Passionate about designing and developing solutions.
 
-<!--
-**knappancash/knappancash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+programming-skills:
+  └─ html | javascript | css | c# | python | bash | typescript | sql | go
 
-Here are some ideas to get you started:
+interests:
+  └─ Web Development | Scripting | UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contact:
+  └─ discord: knappancash
+  └─ linkedin: knappancash
