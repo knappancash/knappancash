@@ -1,15 +1,24 @@
 ```yaml
 user-data:
   └─ Justus Jäger
-  └─ Computer Science Engineer | Developer
-  └─ Passionate about designing and developing solutions.
+  └─ Computer Science Student @ TU Darmstadt
+  └─ DevOps Engineer (Working Student) @ nGENn GmbH
+  └─ Building Linux infrastructure, automation and security tooling.
 
 programming-skills:
-  └─ html | javascript | css | c# | python | bash | typescript | sql | go
+  └─ python | go | bash | sql | typescript | javascript | c# | html | css
+
+infrastructure-and-security:
+  └─ linux | nixos | gitops | docker | gitlab ci/cd | fleet mdm
+  └─ oidc/keycloak | pki/eidas | mtls | sops/age
+
+projects:
+  └─ SitStandReminder (DMS plugin) | Task Dashboard (nGENn public mirror)
 
 interests:
-  └─ Web Development | Scripting | UI/UX
+  └─ Self-Hosting | Infrastructure | Scripting | UI/UX
 
 contact:
-  └─ discord: knappancash
+  └─ email: jaeger@alfred.rip
   └─ linkedin: knappancash
+```
